@@ -3,7 +3,6 @@ import string
 
 import pandas as pd
 import torch
-# from astropy.units import temperature
 from torch import nn
 import torch.nn.functional as F
 from torch.utils.data import DataLoader, Dataset
@@ -237,4 +236,5 @@ if __name__ == "__main__":
             print(f"Generated Haiku (Temperature = {temperature})")
             print(generated_haiku)
             print()
+
         starting_word = input("Enter starting word for Haiku: ")
