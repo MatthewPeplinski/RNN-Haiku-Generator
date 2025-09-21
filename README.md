@@ -5,6 +5,7 @@ Haikus generally fit a 5/7/5 structure, however there is no coherent sentiment w
 The resulting program output looks as follows:
 
 Enter starting word for Haiku: ready 
+
 Generated Haiku (Temperature = 0.1)
 ['ready and spines / a sunding a still the day /  a sunding ']
 
